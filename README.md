@@ -1,3 +1,4 @@
+![Captura de Tela (2)](https://user-images.githubusercontent.com/63103696/187336952-73755f38-b73e-4ba2-b8f4-749ec33d173d.png)
 # Pizzaria
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
